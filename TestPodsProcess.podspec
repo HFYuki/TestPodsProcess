@@ -30,6 +30,10 @@ TODO:im sorry for that its a test for upload a lib to cocoapods process
 
   s.ios.deployment_target = '9.0'
 
+  s.swift_version = '5.0'
+  s.swift_versions = ['4.0','4.2','5.0']
+  
+  
 
   s.default_subspecs = 'Core'
 
