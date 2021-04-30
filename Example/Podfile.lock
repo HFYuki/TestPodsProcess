@@ -1,0 +1,18 @@
+PODS:
+  - TestPodsProcess (0.1.0):
+    - TestPodsProcess/Core (= 0.1.0)
+  - TestPodsProcess/Core (0.1.0)
+
+DEPENDENCIES:
+  - TestPodsProcess (from `../`)
+
+EXTERNAL SOURCES:
+  TestPodsProcess:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestPodsProcess: f53f89e20060faff2c0c3088136fc8fdf77d797e
+
+PODFILE CHECKSUM: a70a1d2edbe4fb56b775056dc2abb42741497588
+
+COCOAPODS: 1.10.1
